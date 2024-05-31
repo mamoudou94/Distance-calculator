@@ -1,0 +1,6 @@
+framework module DistanceGetter {
+  umbrella header "DistanceGetter-umbrella.h"
+
+  export *
+  module * { export * }
+}
